@@ -4,5 +4,8 @@ theme: just-the-docs
 
 url: https://docs.gabbaskey.com
 
+logo: "/assets/images/gabbaskey.png"
+favicon_ico: "/assets/images/favicon.ico"
+
 aux_links:
   Repository: https://github.com/LianPhy6/gabbaskey-docs
